@@ -16,11 +16,6 @@ except Exception as e:
 
 list_of_cities = []
 
-#########################################
-######                             ######
-######    Algorithm paremeters:    ######
-######                             ######
-#########################################
 
 # probability that an individual Route will mutate
 k_mut_prob = 0.4
@@ -953,7 +948,7 @@ def cities_of_choice():
 
 
 if __name__ == '__main__':
-    """Select only one function: random, specific or specific2"""
+    """Select only one function, indeed cities_of_choice() is the best choice because it create a UI using Tkinter"""
     # specific_cities2()
     # specific_cities()
     # random_cities()
