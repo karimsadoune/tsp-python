@@ -28,3 +28,5 @@ The **GA class** to bring together all the methods related to the genetic algori
 tournament_size an amount of **Routes()** from the input population. Takes the strongest of the smallest number of **Routes()**.
 ---
 The **app1 class** create a *UI* using **Tkinter**
+---
+### SADOUNE ABDELKARIM --- 2021
